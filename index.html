@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semáforo</title>
+    <link rel="stylesheet" href="/style.css">
+    <link rel="shortcut icon" href="img/semaforo.png" type="image/x-icon">
+</head>
+<body>
+    <div id="main">
+        <h1>Semáforo</h1>
+        <div id="externo">
+            <div id="vermelho" class="cor verm"></div>
+            <div id="amarelo" class="cor amar"></div>
+            <div id="verde" class="cor verd"></div>
+        </div>
+        <div class="botoes">
+            <button onclick="nao()" id="bvermelho">Vermelho</button>
+            <button onclick="atencao()" id="bamarelo">Amarelo</button>
+            <button onclick="vai()" id="bverde">Verde</button>
+            <button id="bautomatico">Automático</button>
+        </div>
+    </div>
+</body>
+<script src="script.js"></script>
+</html>
