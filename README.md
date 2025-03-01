@@ -1,5 +1,5 @@
 # Semaforo
-<p>O projeto simples desenvolvido para melhoras minhas habilidades com o JavaScript! O projeto
+<p>O projeto simples desenvolvido para melhorar minhas habilidades com o JavaScript! O projeto
 incluí botões separados para acender e apagar as cores do farol e um sistema automático. </p
 
 ---
